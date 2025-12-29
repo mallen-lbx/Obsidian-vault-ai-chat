@@ -1,0 +1,11 @@
+{
+  "id": "vault-ai-chat",
+  "name": "Vault AI Chat",
+  "version": "1.1.1",
+  "minAppVersion": "1.4.0",
+  "description": "AI-powered chat with full file and folder operations. Create, delete, and manage notes directly from chat. Supports OpenRouter, Google AI, Ollama, MiniMax, and any OpenAI-compatible API.",
+  "author": "Mark Allen",
+  "authorUrl": "https://github.com/markallen",
+  "isDesktopOnly": false,
+  "fundingUrl": ""
+}
